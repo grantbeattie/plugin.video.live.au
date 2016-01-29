@@ -330,7 +330,7 @@ STREAM_MAP = {
             'is_playable': True
         },
         {
-            'label': '7mate Melbourne',
+            'label': '7mate Perth',
             'icon': 'https://s.yimg.com/ea/img/-/150930/7mate_logo_1b0mbg3-1b0mbg8.png',
             'path': 'https://sevenwestmedia01-i.akamaihd.net/hls/live/224843/PER3/master.m3u8',
             'is_playable': True
